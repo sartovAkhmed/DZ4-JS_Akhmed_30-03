@@ -1,0 +1,12 @@
+[
+    {
+        "photo": "./img/ghost.jpg",
+        "name": "Akhmed",
+        "age": 19
+    },
+    {
+        "photo": "./img/2003.jpg",
+        "name": "Nuris",
+        "age": 16
+    }
+]
